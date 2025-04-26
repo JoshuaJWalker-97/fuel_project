@@ -10,5 +10,3 @@ Part of my learning journey with Harvard's CS50P course.
 
 ```bash
 python fuel.py
-
-[Joshua Walker]
